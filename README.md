@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-![tryhackme stats](https://raw.githubusercontent.com/N0tAScooby/N0tAScooby/main/assets/thm_propic.png)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2558313" style='border:none;'></iframe>
