@@ -2,11 +2,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=N0tAScooby" alt="Profile views"/>
-</p>
----
-
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=N0tAScooby&show_icons=true" alt="GitHub stats"/>
