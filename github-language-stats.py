@@ -56,4 +56,4 @@ fig1.update_layout(
     legend=dict(title="Languages", font=dict(color='white'))
 )
 
-fig1.write_image("github_dashboard.png", scale=2)
+fig1.write_image("github_stats.png", scale=2)
