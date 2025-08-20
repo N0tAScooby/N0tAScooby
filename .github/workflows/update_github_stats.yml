@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
+      with:
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -36,5 +38,3 @@ jobs:
         git add github_stats.png
         git commit -m "Update GitHub Stats" || echo "No changes"
         git push
-      env:
-       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
