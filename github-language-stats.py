@@ -50,9 +50,9 @@ fig1.update_traces(textinfo='percent+label', textfont_size=14,
 fig1.update_layout(
     title_text="My GitHub Languages",
     title_font=dict(size=20, color='white'),
-    paper_bgcolor='black',    
-    plot_bgcolor='black',     
-    font_color='white',       
+    paper_bgcolor='rgba(0,0,0,0)',    
+    plot_bgcolor='rgba(0,0,0,0)',     
+    font_color='white',
     legend=dict(title="Languages", font=dict(color='white'))
 )
 

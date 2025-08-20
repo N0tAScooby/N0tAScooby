@@ -36,3 +36,5 @@ jobs:
         git add github_stats.png
         git commit -m "Update GitHub Stats" || echo "No changes"
         git push
+      env:
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
