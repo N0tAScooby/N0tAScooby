@@ -2,6 +2,7 @@
   <a href="https://www.linkedin.com/in/darren-f%C3%BCrst-789049254/" target="_blank" rel="nofollow noreferrer" style="text-decoration:none; display:inline-flex; align-items:center; margin-right:10px;">
     <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="20" height="20" style="margin-right:5px;"> LinkedIn
   </a>
+  <a href="https://orcid.org/0009-0006-3607-349X" target="_blank" rel="nofollow noreferrer" style="display:inline-flex; align-items:center;" > <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" height="20">ORCID</a> 
   <a href="https://scholar.google.com/citations?user=kjRyau4AAAAJ" target="_blank" rel="nofollow noreferrer" style="display:inline-flex; align-items:center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" alt="Google Scholar" height="20">Google Scholar
   </a>
