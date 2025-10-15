@@ -32,4 +32,4 @@ jobs:
           target_branch: output
           build_dir: assets
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
