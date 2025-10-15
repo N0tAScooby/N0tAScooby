@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="70"> <a href="https://cockneyrhymingslang.co.uk/slang/scooby_doo/">Just a bloke without a Scooby</a> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="70"> </p>
+# <p align="center"> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="60"> <a href="https://cockneyrhymingslang.co.uk/slang/scooby_doo/">Just a bloke who hasn't a Scooby</a> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="60"> </p>
 
 
 ## Projects
@@ -33,6 +33,13 @@
 <!-- ORCID-PUBS:END -->
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N0tAScooby/N0tAScooby/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N0tAScooby/N0tAScooby/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N0tAScooby/N0tAScooby/output/github-contribution-grid-snake.svg">
+</picture>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=N0tAScooby&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
