@@ -1,4 +1,5 @@
-## Just a bloke without a [Scooby](https://cockneyrhymingslang.co.uk/slang/scooby_doo/) 
+# <p align="center"> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="70"> <a href="https://cockneyrhymingslang.co.uk/slang/scooby_doo/">Just a bloke without a Scooby</a> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="70"> </p>
+
 
 ## Projects
 
