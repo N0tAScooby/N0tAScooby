@@ -3,14 +3,14 @@
 ## Projects
 
 <p align="center">
+  🚨 <b>Check out <a href="https://alarmiator.de">ALARMiator</a></b> 
+</p>
+<p align="center">
   <a href="https://alarmiator.de" target="_blank">
     <img src="https://i0.wp.com/alarmiator.de/wp-content/uploads/2022/12/cropped-cropped-logo_front-e1670425833857-1.png?fit=210%2C49&ssl=1" alt="ALARMiator Logo" width="210" />
   </a>
 </p>
 
-<p align="center">
-  🚨 <b>Check out <a href="https://alarmiator.de">ALARMiator</a></b> 
-</p>
 
 ----
 
