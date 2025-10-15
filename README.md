@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just a bloke without a [Scooby](https://cockneyrhymingslang.co.uk/slang/scooby_doo/) 
 
 ## Projects
 
