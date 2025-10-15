@@ -1,0 +1,23 @@
+name: Update ORCID Publications
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Cada lunes
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch ORCID Works
+        run: |
+          curl -L "https://pub.orcid.org/v3.0/0009-0006-3607-349X/works" \
+          -H "Accept: application/json" > orcid.json
+          python scripts/update_readme_from_orcid.py
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Update publications"
+          git push
