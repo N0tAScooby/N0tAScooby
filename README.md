@@ -26,9 +26,7 @@
 
 ----
 
-##  📚 Latest Publications  📚 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3607-349X)
-
+## <a href="https://orcid.org/0009-0006-3607-349X" target="_blank"> <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="25" height="25"> </a>  Latest Publications  📚 
 <!-- ORCID-PUBS:START -->
 - 2025: *Practical Acoustic Eavesdropping On Typed Passphrases* — Darren Fürst, Andreas Aßmuth [DOI](https://pub.orcid.org/v3.0/0009-0006-3607-349X/work/180723448)
   <details>
