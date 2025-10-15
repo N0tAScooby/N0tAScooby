@@ -29,13 +29,13 @@
 
 ## <a href="https://orcid.org/0009-0006-3607-349X" target="_blank"> <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="25" height="25"> </a>  Latest Publications  📚 
 <!-- ORCID-PUBS:START -->
-- 2025: *Practical Acoustic Eavesdropping On Typed Passphrases* — Darren Fürst, Andreas Aßmuth [DOI](https://pub.orcid.org/v3.0/0009-0006-3607-349X/work/180723448)
+- 2025: *Practical Acoustic Eavesdropping On Typed Passphrases* — Darren Fürst, Andreas Aßmuth [DOI](https://doi.org/10.48550/ARXIV.2503.16719)
   <details>
     <summary>Abstract</summary>
 
     Cloud services have become an essential infrastructure for enterprises and individuals. Access to these cloud services is typically governed by Identity and Access Management systems, where user authentication often relies on passwords. While best practices dictate the implementation of multi-factor authentication, it's a reality that many such users remain solely protected by passwords. This reliance on passwords creates a significant vulnerability, as these credentials can be compromised through various means, including side-channel attacks. This paper exploits keyboard acoustic emanations to infer typed natural language passphrases via unsupervised learning, necessitating no previous training data. Whilst this work focuses on short passphrases, it is also applicable to longer messages, such as confidential emails, where the margin for error is much greater, than with passphrases, making the attack even more effective in such a setting. Unlike traditional attacks that require physical access to the target device, acoustic side-channel attacks can be executed within the vicinity, without the user's knowledge, offering a worthwhile avenue for malicious actors. Our findings replicate and extend previous work, confirming that cross-correlation audio preprocessing outperforms methods like mel-frequency-cepstral coefficients and fast-fourier transforms in keystroke clustering. Moreover, we show that partial passphrase recovery through clustering and a dictionary attack can enable faster than brute-force attacks, further emphasizing the risks posed by this attack vector.
   </details>
-- 2024: *Question: How do Large Language Models perform on the Question Answering tasks? Answer:* — Kevin Fischer, Darren Fürst, Jakob Lindner, Sebastian Steindl, Ulrich Schäfer [DOI](https://pub.orcid.org/v3.0/0009-0006-3607-349X/work/177903007)
+- 2024: *Question: How do Large Language Models perform on the Question Answering tasks? Answer:* — Kevin Fischer, Darren Fürst, Jakob Lindner, Sebastian Steindl, Ulrich Schäfer [DOI](https://doi.org/10.48550/ARXIV.2412.12893)
   <details>
     <summary>Abstract</summary>
 
