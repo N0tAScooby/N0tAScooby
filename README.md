@@ -40,9 +40,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N0tAScooby/N0tAScooby/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=N0tAScooby&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![Github Stats](github_stats.png "Stats")
-
-
