@@ -23,7 +23,7 @@ def extract_publications(data):
             if ext_id.get("external-id-type") == "doi":
                 doi = ext_id.get("external-id-value")
                 break
-        url = f"https://doi.org/{doi}" if doi else None
+        doi_url = f"https://doi.org/{doi}" if doi else None
 
         # Extract authors
         url = f"""https://pub.orcid.org/v3.0{summary.get("path", "")}"""
@@ -49,7 +49,7 @@ def extract_publications(data):
             "title": title,
             "authors": authors,
             "year": year,
-            "url": url,
+            "url": doi_url,
             "authors": authors,
             "abstract": abstract
         })
