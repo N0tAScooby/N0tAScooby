@@ -10,24 +10,24 @@
 
 
 
-# <p align="center"> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="60"> <a href="https://cockneyrhymingslang.co.uk/slang/scooby_doo/">Just a bloke who hasn't a Scooby</a> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="60"> </p>
+# <p align="center"> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="60"> <a href="https://cockneyrhymingslang.co.uk/slang/scooby_doo/" target="_blank" rel="nofollow noreferrer" >Just a bloke who hasn't a Scooby</a> <img src="https://64.media.tumblr.com/9b440b905142f3aaeb9bdb43b1b8b97f/tumblr_ov9qtiN8x01u25kiio1_1280.gif" width="60"> </p>
 
 
 
 ## Projects
 
 <p align="center">
-  🚨 <b>Check out <a href="https://alarmiator.de">ALARMiator</a></b> 
+  🚨 <b>Check out <a href="https://alarmiator.de" target="_blank" rel="nofollow noreferrer" >ALARMiator</a></b> 
 </p>
 <p align="center">
-  <a href="https://alarmiator.de" target="_blank">
+  <a href="https://alarmiator.de" target="_blank" rel="nofollow noreferrer" >
     <img src="https://i0.wp.com/alarmiator.de/wp-content/uploads/2022/12/cropped-cropped-logo_front-e1670425833857-1.png?fit=210%2C49&ssl=1" alt="ALARMiator Logo" width="210" />
   </a>
 </p>
 
 ----
 
-## <a href="https://orcid.org/0009-0006-3607-349X" target="_blank"> <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="25" height="25"> </a>  Latest Publications  📚 
+## <a href="https://orcid.org/0009-0006-3607-349X" target="_blank" rel="nofollow noreferrer" > <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="25" height="25"> </a>  Latest Publications  📚 
 <!-- ORCID-PUBS:START -->
 - 2025: *Practical Acoustic Eavesdropping On Typed Passphrases* — Darren Fürst, Andreas Aßmuth [DOI](https://doi.org/10.48550/ARXIV.2503.16719)
   <details>
