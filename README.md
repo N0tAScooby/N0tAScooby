@@ -29,6 +29,12 @@
 
 ## <a href="https://orcid.org/0009-0006-3607-349X" target="_blank" rel="nofollow noreferrer" > <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="25" height="25"> </a>  Latest Publications  📚 
 <!-- ORCID-PUBS:START -->
+- 2026: *Multimodal LLMs are not all you need for Pediatric Speech Language Pathology* — Darren Fürst, Sebastian Steindl, Ulrich Schäfer [DOI](https://doi.org/10.48550/ARXIV.2604.26568)
+  <details>
+    <summary>Abstract</summary>
+
+    Speech Sound Disorders (SSD) affect roughly five percent of children, yet speech-language pathologists face severe staffing shortages and unmanageable caseloads. We test a hierarchical approach to SSD classification on the granular multi-task SLPHelmUltraSuitePlus benchmark. We propose a cascading approach from binary classification to type, and symptom classification. By fine-tuning Speech Representation Models (SRM), and using targeted data augmentation we mitigate biases found by previous works, and improve upon all clinical tasks in the benchmark. We also treat Automatic Speech Recognition (ASR) with our data augmentation approach. Our results demonstrate that SRM consistently outperform the LLM-based state-of-the-art across all evaluated tasks by a large margin. We publish our models and code to foster future research.
+  </details>
 - 2025: *Practical Acoustic Eavesdropping On Typed Passphrases* — Darren Fürst, Andreas Aßmuth [DOI](https://doi.org/10.48550/ARXIV.2503.16719)
   <details>
     <summary>Abstract</summary>
