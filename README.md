@@ -29,6 +29,12 @@
 
 ## <a href="https://orcid.org/0009-0006-3607-349X" target="_blank" rel="nofollow noreferrer" > <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="25" height="25"> </a>  Latest Publications  📚 
 <!-- ORCID-PUBS:START -->
+- 2026: *NetVAD: Foundation-Model Representation Learning for Identifier-Free Unsupervised Intrusion Detection* — Darren Fürst, Patrick Levi, Sebastian Steindl [DOI](https://doi.org/10.48550/ARXIV.2606.01452)
+  <details>
+    <summary>Abstract</summary>
+
+    Detecting zero-day exploits in production networks requires robust Intrusion Detection Systems (IDS). However, current unsupervised models struggle to match the performance of supervised classifiers, which are trained for specific attacks only. To bridge this gap, we leverage the emerging capabilities of Network Foundation Models. We propose 	extit{NetVAD}, a strictly identifier-free Variational Autoencoder that projects representations from a frozen Foundation Model into a task-specific latent space, trained solely on benign traffic. Evaluated on ToN-IoT and IoT-23, NetVAD achieves highly competitive unsupervised performance. On ToN-IoT, it achieves a 98% Micro F1-score and a 96% Macro F1-score at an operational false positive rate. Unlike prior work, we show the model's performance transparently for all attack-classes of the datasets. While the architecture excels at discerning complex botnet behaviour (99.6% F1 on Okiru), our evaluation reveals limitations of flow-based Foundation Models in detecting single-packet reconnaissance events. Finally, a comprehensive ablation study confirms that while large-scale pre-training is essential to prevent performance degrading, specialised decoder architectures are necessary to precisely model the complex benign manifold, ensuring attacks are caught more reliably, due to a higher reconstruction loss.
+  </details>
 - 2026: *Multimodal LLMs are not all you need for Pediatric Speech Language Pathology* — Darren Fürst, Sebastian Steindl, Ulrich Schäfer [DOI](https://doi.org/10.48550/ARXIV.2604.26568)
   <details>
     <summary>Abstract</summary>
